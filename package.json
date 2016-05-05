@@ -1,0 +1,27 @@
+{
+	"license": "MIT",
+	"version": "1.0.0",
+	"name": "nodcord",
+	"description": "Yet another unofficial javascript client API for Discord.",
+	"author": "Santi 'AdamJames' T. <>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/satom99/nodcord"
+	},
+	"bugs": {
+		"url": "https://github.com/satom99/nodcord/issues"
+	},
+	"keywords": [
+		"api",
+		"library",
+		"discord",
+		"discordapp",
+	],
+	"main": "lib/index",
+	"analyze": true,
+	"dependencies": {
+		"ws": "*",
+		"superagent": "*",
+		"zlib": "*"
+	}
+}
