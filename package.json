@@ -15,7 +15,7 @@
 		"api",
 		"library",
 		"discord",
-		"discordapp",
+		"discordapp"
 	],
 	"main": "lib/index",
 	"analyze": true,
